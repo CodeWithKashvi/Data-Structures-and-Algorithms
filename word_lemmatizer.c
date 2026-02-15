@@ -1,3 +1,6 @@
+/* Aim: To write a C program that performs simple lemmatization by removing common 
+suffixes like "ing", "ers", "er", "es", and "s" from given words. */
+
 #include <stdio.h>
 
 void lemmatize(char word[]) {
