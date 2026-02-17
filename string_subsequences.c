@@ -1,5 +1,18 @@
 #include <stdio.h>
-
+/*
+ * AIM:
+ * This program generates and prints all possible subsequences
+ * of a given string using recursion.
+ *
+ * A subsequence is a sequence derived from another string
+ * by deleting some or none of the characters without changing
+ * the order of the remaining characters.
+ *
+ * Example:
+ * Input: "abc"
+ * Output subsequences:
+ * "abc", "ab", "ac", "a", "bc", "b", "c", ""
+ */
 void generateSubsequences(char s[], int n, int index, char current[], int currentIndex) {
     int i;
     if (index == n) {
