@@ -92,14 +92,18 @@ Below is the categorized list of all implemented programs:
 
 ---
 
-# 🚀 How to Compile and Run
+## 🚀 How to Compile and Run
 
 Use GCC to compile any program:
 
 ```bash
 gcc filename.c -o output
 ./output
+```
 
-Example:
+### Example
+
+```bash
 gcc binary_search.c -o bs
 ./bs
+```
