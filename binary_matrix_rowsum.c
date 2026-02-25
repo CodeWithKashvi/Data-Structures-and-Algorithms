@@ -1,3 +1,6 @@
+//Aim: To write a C program to input a binary matrix using user-defined rows and columns 
+//and display the matrix along with the sum of each row
+
 #include <stdio.h>
 
 int main() {
