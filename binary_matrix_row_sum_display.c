@@ -1,3 +1,6 @@
+//Aim: To write a C program to input a binary matrix and print the matrix
+//along with the sum of elements in each row
+
 #include <stdio.h>
 #define MAX_ROWS 100
 #define MAX_COLS 100
