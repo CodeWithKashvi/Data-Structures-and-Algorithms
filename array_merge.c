@@ -1,3 +1,5 @@
+// Aim: To write a C program to merge two arrays into a single array and display the merged array
+
 #include <stdio.h>
 
 void mergeArrays(int arr1[], int arr2[], int merged[], int n1, int n2) {
