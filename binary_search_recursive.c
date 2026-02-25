@@ -1,3 +1,6 @@
+//Aim: To write a C program to implement binary search using recursion to 
+//find the position of a given element in a sorted array.
+
 #include <stdio.h>
 
 // Recursive binary search function
