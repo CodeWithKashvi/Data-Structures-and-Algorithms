@@ -1,3 +1,6 @@
+//Aim: To write a C program to read an integer value (age) from the user 
+//and print it using standard input and output functions
+
 #include <stdio.h>
 
 int main() {
