@@ -1,3 +1,5 @@
+//Aim: To write a C program to perform binary search on a sorted array and find the position of a given element.
+
 #include <stdio.h>
 
 // Function to perform binary search
