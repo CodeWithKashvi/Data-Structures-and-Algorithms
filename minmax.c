@@ -14,8 +14,8 @@ int main() {
         return 1;
     }
 
-    printf("Enter %d elements:\n", n);
     for (i = 0; i < n; i++)
+    printf("Enter %d element:\n", i);
         scanf("%d", &a[i]);
 
     // Initialization
